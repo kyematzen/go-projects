@@ -1,2 +1,5 @@
-# go-projects
-A repository that is utilized for my Go projects
+### Hi 👋, my name is Kye, and welcome to #go-projects
+
+This repository will be utilized for Go projects
+
+****
