@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb936fa1-1618-44f8-9ef3-91d377bdd166" name="Default Changelist" comment="" />
+    <list default="true" id="f465a739-caa4-4b75-aa92-a31e56f35f6e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../IfStatements/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IfStatements/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1pTj8XNDkBV7YQ5QiIsasLEjulQ" />
+  <component name="ProjectId" id="1pTjbt4LMbVpNPPANzy3TzOzqDI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -53,7 +55,7 @@
   </component>
   <component name="RunManager">
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="IfStatements" />
+      <module name="Arrays" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/main.go" />
@@ -69,11 +71,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fb936fa1-1618-44f8-9ef3-91d377bdd166" name="Default Changelist" comment="" />
-      <created>1615213814645</created>
+      <changelist id="f465a739-caa4-4b75-aa92-a31e56f35f6e" name="Default Changelist" comment="" />
+      <created>1615214048528</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1615213814645</updated>
+      <updated>1615214048528</updated>
     </task>
     <servers />
   </component>
@@ -93,21 +95,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2517" height="413" key="GridCell.Tab.0.bottom" timestamp="1615230239073">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1615230215827">
+      <screen x="2560" y="0" width="1920" height="1080" />
     </state>
-    <state width="2517" height="413" key="GridCell.Tab.0.bottom/2560.0.1920.1080/-1920.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1615230239073" />
-    <state width="2517" height="413" key="GridCell.Tab.0.center" timestamp="1615230239073">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="2517" height="413" key="GridCell.Tab.0.bottom/2560.0.1920.1080/-1920.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1615229870588" />
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom/2560.0.1920.1080/-1920.0.1920.1080/0.0.2560.1440@2560.0.1920.1080" timestamp="1615230215827" />
+    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1615230215827">
+      <screen x="2560" y="0" width="1920" height="1080" />
     </state>
-    <state width="2517" height="413" key="GridCell.Tab.0.center/2560.0.1920.1080/-1920.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1615230239073" />
-    <state width="2517" height="413" key="GridCell.Tab.0.left" timestamp="1615230239073">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="2517" height="413" key="GridCell.Tab.0.center/2560.0.1920.1080/-1920.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1615229870588" />
+    <state width="1877" height="294" key="GridCell.Tab.0.center/2560.0.1920.1080/-1920.0.1920.1080/0.0.2560.1440@2560.0.1920.1080" timestamp="1615230215827" />
+    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1615230215827">
+      <screen x="2560" y="0" width="1920" height="1080" />
     </state>
-    <state width="2517" height="413" key="GridCell.Tab.0.left/2560.0.1920.1080/-1920.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1615230239073" />
-    <state width="2517" height="413" key="GridCell.Tab.0.right" timestamp="1615230239073">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="2517" height="413" key="GridCell.Tab.0.left/2560.0.1920.1080/-1920.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1615229870588" />
+    <state width="1877" height="294" key="GridCell.Tab.0.left/2560.0.1920.1080/-1920.0.1920.1080/0.0.2560.1440@2560.0.1920.1080" timestamp="1615230215827" />
+    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1615230215827">
+      <screen x="2560" y="0" width="1920" height="1080" />
     </state>
-    <state width="2517" height="413" key="GridCell.Tab.0.right/2560.0.1920.1080/-1920.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1615230239073" />
+    <state width="2517" height="413" key="GridCell.Tab.0.right/2560.0.1920.1080/-1920.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1615229870588" />
+    <state width="1877" height="294" key="GridCell.Tab.0.right/2560.0.1920.1080/-1920.0.1920.1080/0.0.2560.1440@2560.0.1920.1080" timestamp="1615230215827" />
   </component>
 </project>
