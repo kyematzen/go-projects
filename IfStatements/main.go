@@ -5,6 +5,7 @@ import (
 )
 
 func main() {
+
 	x := 11
 
 	if x < 2 {
